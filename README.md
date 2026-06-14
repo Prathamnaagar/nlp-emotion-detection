@@ -98,6 +98,15 @@ Emotion-Detection-System/
 * API Deployment
 
 ---
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+🔗 **Live App:** (https://nlp-emotion-detection-gneikptqknuuj2elq4pwea.streamlit.app/)
+
+Experience real-time emotion detection by entering any text and letting the model predict the underlying emotion.
+
+---
 
 ## 👨‍💻 Author
 
