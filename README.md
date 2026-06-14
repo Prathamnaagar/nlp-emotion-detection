@@ -89,50 +89,6 @@ Emotion-Detection-System/
 
 ---
 
-## ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone <your-repository-link>
-```
-
-Move to project folder:
-
-```bash
-cd Emotion-Detection-System
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 💡 Example
-
-Input:
-
-```text
-I am feeling very happy today.
-```
-
-Output:
-
-```text
-Joy 😊
-```
-
----
-
 ## 🔮 Future Improvements
 
 * Deep Learning Models (LSTM, GRU)
@@ -147,4 +103,4 @@ Joy 😊
 
 Pratham Naagar
 
-BSc Computer Science Student | Machine Learning Enthusiast | NLP Learner
+| Machine Learning Enthusiast | NLP Learner
